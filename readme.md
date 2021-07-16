@@ -1,0 +1,1 @@
+This repo was created to practice github commands in the terminal
